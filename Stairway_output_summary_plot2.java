@@ -284,6 +284,12 @@ public class Stairway_output_summary_plot2 {
             plot.getAxis(XYPlot.AXIS_X).setRange(xmin, xmax);
             plot.getAxis(XYPlot.AXIS_X2).setRange(xmin/year_per_generation, xmax/year_per_generation);
         }
+        else {
+            double xmin2=plot.getAxis(XYPlot.AXIS_X).getMin().doubleValue();
+            double xmax2=plot.getAxis(XYPlot.AXIS_X).getMax().doubleValue();
+            plot.getAxis(XYPlot.AXIS_X2).setMin(xmin2/year_per_generation);
+            plot.getAxis(XYPlot.AXIS_X2).setMax(xmax2/year_per_generation);
+        }
         if(!yrange.equals("0,0"))plot.getAxis(XYPlot.AXIS_Y).setRange(ymin, ymax);
         
         // Style data series
