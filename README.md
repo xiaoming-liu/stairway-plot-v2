@@ -8,7 +8,6 @@ The stairway plot is a method for inferring detailed population demographic hist
 
 Significant improvement in terms of 1) the application to both folded and unfolded SFSs, 2) overfitting control, 3) speed, 4) support for masking out part of the SFSs and 5) usage convenience.
 
-The executable package of stairway plot v2 can be downloaded [here](https://github.com/xiaoming-liu/stairway-plot-v2/blob/master/stairway_plot_v2.1.1.zip). A detailed readme file for running the programs can be found [here](https://github.com/xiaoming-liu/stairway-plot-v2/blob/master/READMEv2.1.pdf).
 
 ### Please cite 1 & 2
 1. Liu X and Fu YX. (2015) [Exploring population size changes using SNP frequency spectra](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3254.html). *Nature Genetics*. 47(5):555-559.  
