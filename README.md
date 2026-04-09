@@ -11,4 +11,4 @@ Significant improvement in terms of 1) the application to both folded and unfold
 
 ### Please cite 1 & 2
 1. Liu X and Fu YX. (2015) [Exploring population size changes using SNP frequency spectra](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3254.html). *Nature Genetics*. 47(5):555-559.  
-2. Liu X and Fu YX. (2020) [Stairway Plot 2: demographic history inference with folded SNP frequency spectra](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-020-02196-9.pdf). Genome Biology 21:280.
+2. Liu X and Fu YX. (2020) [Stairway Plot 2: demographic history inference with folded SNP frequency spectra](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-020-02196-9.pdf). *Genome Biology*. 21:280.
